@@ -11,7 +11,7 @@ This analysis aims to answer the following questions:
 3. What is the monthly churn trend?
 4. How long do customers stay subscribed on average?
 5. Which customers cohorts have the highest retention rates?
-6. Which cohorts generate the most revenue?
+6. Which customer cohorts generate the most revenue?
 7. How has the customer base grown over time?
 
 ## Dataset
@@ -26,31 +26,31 @@ The dataset contains subscription records for customers of a streaming service.
 Source: https://www.kaggle.com/datasets/keremkarayaz/streaming-video-subscriptions-datasets?resource=download
 
 ## Analysis Performed
-### Customer Overview
-- Total Customers
-- Active Customers
-- Churned Customers
-
-### Acquisition Analysis
-- Monthly customer signups
-- Customer growth trends
-
-### Churn Analysis
-- Monthly cancellations
-- Churn rate monitoring
-
-### Customer Lifetime Analysis
-- Average customer lifespan
-- Longest-retained customers
-
-### Cohort Analysis
-- Grouped customers by signup month
-- Measured active customers within each cohort
-- Calculated retention rates by cohort
-- Compared cohort performance across acquisition periods
-
-### Revenue Analysis
-- Revenue by Cohort
-- Average revenue per customer
+| Analysis | SQL Script |
+|---|---|
+Customer Overview | 
+Acquisition Analysis |
+Churn Analysis |
+Customer Lifetime Analysis |
+Cohort Analysis |
+Revenue Analysis |
 
 ## Key Findings:
+1. Customer Base Overview:
+- Total customers: **3,069**
+- Active customers: **1,065**
+- Churned customers: **2,004**
+
+2. Customer Acquisition Trends
+- Highest signup month: **July 2023**
+- Lowest signup month: **September 2023**
+- Overall growth trend:
+
+3. Churn Behavior
+- Total churned customers: **2,004**
+- Churn rate: **65.30%**
+- Highest churn month: **June 2023**
+
+4. Customer Lifetime Analysis
+- Average customer lifespan:
+- Longest-retained customer: **1,378 days**
