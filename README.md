@@ -80,7 +80,7 @@ This analysis examined customer acquisition, retention, churn, cohort performanc
 
 The results showed that while the business continues to acquire new customers and grow its customer base, customer retention remains a significant challenge due to the high churn rate. Customers stay subscribed for more than a year on average, indicating that many customers remain engaged with the service for an extended period.
 
-Cohort analysis revealed that newer cohorts show higher retention rates than older cohorts because they have had less time to cancel their subscriptions. Revenue analysis showed that revenue growth is primarily driven by customer acquisition rather than increases in customer spending.
+Cohort analysis revealed that newer cohorts show higher retention rates than older cohorts because they have had less time to cancel their subscriptions, while revenue analysis showed that revenue growth is primarily driven by customer acquisition rather than increases in customer spending.
 
 Overall, the findings suggest that the business should focus not only on acquiring new customers but also on improving customer retention to maximize long-term customer value and support sustainable revenue growth.
 
