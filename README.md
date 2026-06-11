@@ -4,7 +4,8 @@ This project analyzes customer subscription behavior to understand retention, ch
 
 The goal is to help the business understand how effectively they retain customers and identify opportunities to improve customer loyalty and revenue.
 
-``` 📁 Project Structure
+##### 📁 Project Structure
+````
 customer-retention-cohort-analysis
 │
 ├── data
@@ -21,7 +22,7 @@ customer-retention-cohort-analysis
 │   └── 06_revenue_analysis.sql
 │
 └── README.md
-```
+````
 
 ## ❓ Business Questions:
 This analysis aims to answer the following questions:
