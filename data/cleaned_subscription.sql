@@ -1,0 +1,1 @@
+SELECT * FROM `project-2`.data;
