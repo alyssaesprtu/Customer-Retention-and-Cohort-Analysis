@@ -8,7 +8,7 @@ The goal is to help the business understand how effectively they retain customer
 customer-retention-cohort-analysis
 │
 ├── data
-│   ├── cleaned.sql
+│   ├── cleaned_dataset.sql
 │   ├── streaming-video-subscriptions-analysis-data-dictionary.csv
 │   ├── subscription-cohort-analysis.csv
 │
